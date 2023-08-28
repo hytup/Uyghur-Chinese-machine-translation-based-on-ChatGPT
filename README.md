@@ -1,4 +1,4 @@
-<img width="358" alt="image" src="https://github.com/hytup/Uyghur-Chinese-machine-translation-based-on-ChatGPT/assets/98211687/38bd9449-f2f3-4410-bb51-99b3d2896fdc"># Uyghur-Chinese-machine-translation-based-on-ChatGPT
+# Uyghur-Chinese-machine-translation-based-on-ChatGPT
 
 ## Contents
 * [Introduction](#introduction)
