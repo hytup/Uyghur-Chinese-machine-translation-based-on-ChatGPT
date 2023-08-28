@@ -5,7 +5,6 @@
 * [Usage](#usage)
 * [Experimental Results](#experimental-results)
 * [License](#License)
-* [Citation](#Citation)
 * [Development Team](#development-team)
 * [Contributors](#contributors)
 * [Contact](#contact)
