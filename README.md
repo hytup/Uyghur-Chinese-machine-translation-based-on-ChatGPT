@@ -1,4 +1,4 @@
-# Uyghur-Chinese-machine-translation-based-on-ChatGPT
+# Uyghur-Chinese machine translation based on ChatGPT
 
 ## Contents
 * [Introduction](#introduction)
